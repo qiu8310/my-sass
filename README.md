@@ -20,7 +20,7 @@ __Examples__
 ```scss
 
 .list li {
-  @include equal-to(10) {  // If there are ten `li` item in the `.list`
+  @include equal-to(10) {  // If there are ten `li` items in the `.list`
     //...
   }
 }
